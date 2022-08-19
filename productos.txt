@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Acondionador",
+    "price": "25",
+    "thumbnail": "https://www.sedal.com.ar/content/dam/unilever/sunsilk/argentina/pack_shot/7791293030661-1966781-png.png",
+    "id": 1
+  },
+  {
+    "title": "Champú",
+    "price": "20",
+    "thumbnail": "https://smoda.elpais.com/wp-content/uploads/2019/11/Champu-Elvive-Aceite-extra-22c99.jpg",
+    "id": 2
+  },
+  {
+    "title": "Cepillo",
+    "price": "459",
+    "thumbnail": "https://algo",
+    "id": 3
+  },
+  {
+    "title": "Jabón",
+    "price": "32.4",
+    "thumbnail": "https://algo",
+    "id": 4
+  },
+  {
+    "title": "Esponja",
+    "price": "12.45",
+    "thumbnail": "https://esponja.jpg",
+    "id": 5
+  }
+]
